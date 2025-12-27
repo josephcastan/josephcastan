@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Joseph
 
 Your Data Engineer with strong expertise in building **scalable, cloud-native data platforms on AWS**.  
-I specialize in designing reliable data ingestion pipelines, lakehouse architectures, and analytics-ready datasets using modern AWS services.
+Designing reliable data ingestion pipelines, lakehouse architectures, and analytics-ready datasets using modern AWS services.
 
 ---
 
@@ -15,16 +15,16 @@ I specialize in designing reliable data ingestion pipelines, lakehouse architect
 
 ---
 
-## ☁️ AWS Data Engineering Stack
+## ☁️ AWS based Data Engineering 😎
 
 ### Core AWS Services
-- **Amazon S3** – Data lake (raw / curated / silver / gold)
-- **AWS Glue** – ETL jobs, Crawlers, Data Catalog
-- **Amazon Athena** – Serverless SQL analytics
-- **Amazon Redshift** – Data warehousing
-- **AWS Lambda** – Event-driven processing
-- **Amazon EventBridge** – Workflow orchestration
-- **Amazon EMR** – Large-scale Spark processing
+- **Amazon S3** 
+- **AWS Glue**
+- **Amazon Athena** 
+- **Amazon Redshift** 
+- **AWS Lambda** 
+- **Amazon EventBridge** 
+- **Amazon EMR** 
 
 ### Data Processing
 - **Apache Spark (PySpark)**
@@ -36,8 +36,9 @@ I specialize in designing reliable data ingestion pipelines, lakehouse architect
 
 ## 🧰 Programming & Tools
 
-- **Python** (boto3, PySpark, pandas)
-- **SQL** (Athena, Redshift, ANSI SQL)
+- **Python**
+- **Typescript** 
+- **SQL**
 - **Git / GitHub**
 - **Terraform / CloudFormation**
 - **Docker**
@@ -63,24 +64,6 @@ I specialize in designing reliable data ingestion pipelines, lakehouse architect
 - Null / range / freshness checks
 - Glue Data Catalog & crawlers
 - Partition-aware crawling strategies
-
----
-
-## 🚀 Sample Projects
-
-- **AWS Glue CSV → Parquet Lakehouse**
-  - Multi-table ingestion with schema normalization
-  - DynamicFrame choice resolution
-  - Partition-optimized Parquet output
-
-- **Large JSON → NDJSON → Parquet Pipeline**
-  - Streaming JSON parsing
-  - Spark-optimized conversion
-  - Cost-efficient Glue job design
-
-- **Serverless Analytics Platform**
-  - S3 + Glue + Athena + BI tool
-  - Zero-infrastructure analytics
 
 ---
 
