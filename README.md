@@ -68,8 +68,6 @@ I specialize in designing reliable data ingestion pipelines, lakehouse architect
 
 ## 🚀 Sample Projects
 
-> *(Public / anonymized examples)*
-
 - **AWS Glue CSV → Parquet Lakehouse**
   - Multi-table ingestion with schema normalization
   - DynamicFrame choice resolution
